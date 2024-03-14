@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: linear-gradient(to right, white, rgb(14, 12, 12));
+}
+.sectionOne{
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    
+}
+.sectionTwo{
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    
+}
+img{
+    width: 60%;
+    height: 70%;
+    margin-top: 0;
+    margin-right: 20%;
+    
+    
+}
+.style{
+    margin-left: 40%;
+    margin-top: 30%;
+   
+
+}
+.style2{
+    margin-left: center;
+    margin-top: 10%;
+    width: 40%;
+    display: flex;
+    justify-content: space-between;
+   
+  
+    
+    
+
+}
+.img1{
+    width: 100%;
+
+}
+
+
+button{
+    background-color: rgb(2, 2, 2);
+    color: rgb(191, 199, 194);
+    size: 1rem;
+    padding: 15px;
+    width: 100px;
+    height: 10px;
+    text-align: center;
+    
+}
+
+.img1{
+    width: 100%;
+    margin-right: 5px;
+    margin-left: 40px;
+    margin-top: 20%;
+    padding: 1rem;
+}
+
+.p1{
+    width: 100;
+    margin-left: 50%;
+   
+}
+h1{
+    text-align: center;
+}
